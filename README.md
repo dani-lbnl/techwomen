@@ -10,7 +10,8 @@ Computer Vision with Emerging Leaders
     <td>
      <p>
       - <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[Lesson 01]<a>: Berkeley lab & computer vision applications
-     <p> 
+      <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[pdf]</a> <a href="https://drive.google.com/file/d/19T7uqszLOIsKCboha1R1JGp9bIgejjts/view?usp=sharing">[video]</a> 
+      <p>
       - <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[Lesson 02]<a>: hands-on with computer vision
       </td>
  </tr>
