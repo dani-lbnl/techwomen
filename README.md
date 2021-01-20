@@ -9,9 +9,9 @@ Computer Vision with Emerging Leaders
     </td>
     <td>
      <p>
-      - [Lesson 01]
+      - <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[Lesson 01]<a>
      <p> 
-      - [Lesson 02] 
+      - <a href="https://github.com/dani-lbnl/techwomen/blob/main/Techwomen2021_lesson1.pdf">[Lesson 02]<a>
       </td>
  </tr>
 </table>
@@ -20,7 +20,7 @@ Computer Vision with Emerging Leaders
 Other lessons online:
 ---------------
 
--	[Intro to Python]()
-- [Intro to Image Analysis]()
+-	[Intro to Python](https://v4.software-carpentry.org/python/index.html)
+- [Intro to Image Analysis](https://datacarpentry.org/image-processing/)
 
 
