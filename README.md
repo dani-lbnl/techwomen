@@ -1,6 +1,7 @@
 # TechWomen
 
-Computer Vision with Emerging Leaders 
+Computer Vision with [TechWomen](https://www.techwomen.org/) Emerging Leaders.
+[TechWomen](https://www.techwomen.org/) is an Initiative of the U.S. Department of State's Bureau of Educational and Cultural Affairs that empowers, connects and supports the next generation of women leaders in science, technology, engineering and mathematics (STEM) from Africa, Central and South Asia, and the Middle East.
 
 
 <table border="0">
