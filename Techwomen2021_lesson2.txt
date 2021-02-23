@@ -5,4 +5,4 @@ what are the main properties of an image? how to create a simple image?
 create an animated gif with your pictures
 what does an image histogram can tell you about the image?
 how to use image histogram to count coffee beans and cells
-how to use a machine learning algorithm in an image
+how to use a machine learning algorithm in an imagesu
